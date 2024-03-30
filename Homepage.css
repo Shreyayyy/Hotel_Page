@@ -1,0 +1,30 @@
+.feedback-carousel-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .feedback-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #b0e0e6;
+    font-weight: bold;
+  }
+  
+  .patient-image {
+    max-width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .feedback-author{
+    font-style: italic;
+    margin-top: 10px;
+    color: #03035e;
+    font-weight: bold;
+  }
